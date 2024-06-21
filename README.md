@@ -38,5 +38,5 @@ This is the backend server for an online courses platform similar to Udemy. It p
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/3bwahab/online-courses-backend.git
+   git clone https://github.com/3bwahab/online_courses-.git
    cd online-courses-backend
